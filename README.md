@@ -15,4 +15,4 @@ answers:
   Examples
   1. 反转字符串中的元音字母 https://github.com/yanyan314/leetcode/issues/46  
   2. 反转字符串 https://github.com/yanyan314/leetcode/issues/47  
-  
+  3. 在有序数组里找2个元素之和等于某个数 https://github.com/yanyan314/leetcode/issues/48  
