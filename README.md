@@ -23,4 +23,8 @@ answers:
   滑动窗口的方法，通常适用与寻找子串或者子数组的情况，分别设置左右指针，适时的移动左右指针，保证滑动窗口中的元素满足某个条件
   
   Examples:
-  1 209. Minimum Size Subarray Sum https://github.com/yanyan314/leetcode/issues/49  
+  
+  1. leetcode 209. Minimum Size Subarray Sum https://github.com/yanyan314/leetcode/issues/49  
+  2. leetcode 3. Longest Substring Without Repeating Characters://github.com/yanyan314/leetcode/issues/50
+  3. leetcode 438
+  4. leetcode 76
