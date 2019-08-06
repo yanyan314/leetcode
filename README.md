@@ -25,6 +25,6 @@ answers:
   Examples:
   
   1. leetcode 209. Minimum Size Subarray Sum https://github.com/yanyan314/leetcode/issues/49  
-  2. leetcode 3. Longest Substring Without Repeating Characters://github.com/yanyan314/leetcode/issues/50
+  2. leetcode 3. Longest Substring Without Repeating Characters https://github.com/yanyan314/leetcode/issues/50  
   3. leetcode 438
   4. leetcode 76
