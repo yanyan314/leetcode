@@ -47,4 +47,4 @@ answers:
   
   Examples:
   1. leetcode 349. Intersection of Two Arrays  https://github.com/yanyan314/leetcode/issues/51
-  2. leetcode 350. Intersection of Two Arrays II://github.com/yanyan314/leetcode/issues/52
+  2. leetcode 350. Intersection of Two Arrays II https://github.com/yanyan314/leetcode/issues/52
