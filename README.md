@@ -49,4 +49,4 @@ answers:
   1. leetcode 349. Intersection of Two Arrays  https://github.com/yanyan314/leetcode/issues/51
   2. leetcode 350. Intersection of Two Arrays II https://github.com/yanyan314/leetcode/issues/52
   3. leetcode 242. Valid Anagram https://github.com/yanyan314/leetcode/issues/7
-  4. leetcode 202. Happy Number://github.com/yanyan314/leetcode/issues/8
+  4. leetcode 202. Happy Number https://://github.com/yanyan314/leetcode/issues/8
