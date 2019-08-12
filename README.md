@@ -48,3 +48,4 @@ answers:
   Examples:
   1. leetcode 349. Intersection of Two Arrays  https://github.com/yanyan314/leetcode/issues/51
   2. leetcode 350. Intersection of Two Arrays II https://github.com/yanyan314/leetcode/issues/52
+  3. leetcode 242. Valid Anagram https://github.com/yanyan314/leetcode/issues/7
