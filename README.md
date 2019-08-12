@@ -51,4 +51,4 @@ answers:
   3. leetcode 242. Valid Anagram https://github.com/yanyan314/leetcode/issues/7
   4. leetcode 202. Happy Number https://github.com/yanyan314/leetcode/issues/8
   5. leetcode 290. Word Pattern https://github.com/yanyan314/leetcode/issues/53
-  6. leetcode 205. Isomorphic Strings
+  6. leetcode 205. Isomorphic Strings https://github.com/yanyan314/leetcode/issues/54
