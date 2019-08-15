@@ -52,3 +52,4 @@ answers:
   4. leetcode 202. Happy Number https://github.com/yanyan314/leetcode/issues/8
   5. leetcode 290. Word Pattern https://github.com/yanyan314/leetcode/issues/53
   6. leetcode 205. Isomorphic Strings https://github.com/yanyan314/leetcode/issues/54
+  7. leetcode 451. Sort Characters By Frequency https://github.com/yanyan314/leetcode/issues/55
