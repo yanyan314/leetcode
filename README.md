@@ -54,3 +54,4 @@ answers:
   6. leetcode 205. Isomorphic Strings https://github.com/yanyan314/leetcode/issues/54
   7. leetcode 451. Sort Characters By Frequency https://github.com/yanyan314/leetcode/issues/55
   8. leetcode 454. 4Sum II https://github.com/yanyan314/leetcode/issues/13
+  9. leetcode 49. Group Anagrams https://github.com/yanyan314/leetcode/issues/56
