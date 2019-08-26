@@ -57,6 +57,7 @@ answers:
   9. leetcode 49. Group Anagrams https://github.com/yanyan314/leetcode/issues/56
   
   10. leetcode 447. Number of Boomerangs https://github.com/yanyan314/leetcode/issues/57
+  滑动窗口保证在一个固定的窗口中取数，只需要保证set或者map的size是固定长度
   11. leetcode 219. Contains Duplicate II https://github.com/yanyan314/leetcode/issues/14
   12. leetcode 217. Contains Duplicate https://github.com/yanyan314/leetcode/issues/15
   
