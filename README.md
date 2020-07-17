@@ -12,6 +12,10 @@ answers:
    
   # 数组问题
   
+  善用指针
+  Examples:
+  1. Move zeros https://leetcode.com/problems/move-zeroes/submissions/ (解题思路： 设置2个指针，一个用于遍历数组，另一个用于存储非零元素）
+  
   运用对撞指针的方法即设置两个指针，分别指向数组最左边的元素和最右边的元素，进行遍历查找或者计算
   
   Examples
