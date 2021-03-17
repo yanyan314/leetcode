@@ -27,7 +27,7 @@ answers:
   Examples
   1. 反转字符串中的元音字母 https://github.com/yanyan314/leetcode/issues/46  
   2. 反转字符串 https://github.com/yanyan314/leetcode/issues/47  
-  3. 在有序数组里找2个元素之和等于某个数 https://github.com/yanyan314/leetcode/issues/48  
+  3. 在有序数组里找2个元素之和等于某个数 https://github.com/yanyan314/leetcode/issues/48  (解题思路：设置两个指针，一头一尾，计算两个指针所指的数之和，如果等于target，那么返回，如果小于target,因为数组有序，把左指针++。 如果大于target,把右指针--）
   
   
   
