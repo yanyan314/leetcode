@@ -38,7 +38,7 @@ answers:
   Examples:
   
   1. leetcode 209. Minimum Size Subarray Sum https://github.com/yanyan314/leetcode/issues/49  
-  2. leetcode 3. Longest Substring Without Repeating Characters https://github.com/yanyan314/leetcode/issues/50  
+  2. leetcode 3. Longest Substring Without Repeating Characters https://github.com/yanyan314/leetcode/issues/50  (解题思路：建立一个滑动窗口，初始长度为0，并设立一个元素是否存在的标志，开始往右扩展，如果该元素不存在，r++,如果元素已经存在，l++,缩小数组，直到里面没有重复元素）
   3. leetcode 438
   4. leetcode 76
   
