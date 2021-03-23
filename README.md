@@ -70,6 +70,7 @@ answers:
   9. leetcode 49. Group Anagrams https://github.com/yanyan314/leetcode/issues/56
   
   10. leetcode 447. Number of Boomerangs https://github.com/yanyan314/leetcode/issues/57
+  11. leetcode 1  Two sum https://leetcode.com/problems/two-sum/ (解题思路：这里给出的数组不是有序的，如果是有序的，可以使用之前数组问题里的对撞指针的方法。 对于无序的，可以遍历数组把数组值和index放入map,每次遍历的时候查找前面有没有target-nums[i]的元素，如果有就返回index)
   
   
   滑动窗口保证在一个固定的窗口中取数，只需要保证set或者map的size是固定长度
