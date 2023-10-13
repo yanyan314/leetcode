@@ -8,6 +8,8 @@ answers:
    https://www.jiuzhang.cn/solution/intersection-of-two-arrays-ii/
    
    https://www.cnblogs.com/grandyang/p/4606334.html
+
+   lesson 1: 26 27 80
    
    
   # 数组问题
