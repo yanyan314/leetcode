@@ -28,10 +28,10 @@ answers:
   运用对撞指针的方法即设置两个指针，分别指向数组最左边的元素和最右边的元素，进行遍历查找或者计算
   
   Examples
-  1. 反转字符串中的元音字母 https://github.com/yanyan314/leetcode/issues/46  
+  1. leetcode 345 --反转字符串中的元音字母 https://github.com/yanyan314/leetcode/issues/46  
   2. 反转字符串 https://github.com/yanyan314/leetcode/issues/47  
-  3. 在有序数组里找2个元素之和等于某个数 https://github.com/yanyan314/leetcode/issues/48  (解题思路：设置两个指针，一头一尾，计算两个指针所指的数之和，如果等于target，那么返回，如果小于target,因为数组有序，把左指针++。 如果大于target,把右指针--）
-  4. Container With Most Water https://leetcode.com/problems/container-with-most-water/submissions/(解题思路：本题是计算最大面积，设计两个指针，一头一尾，设置初始面积为0， 如果下一组面积大，就替换最大面积值，如果小于当前面积，看当前头尾指针所指的数，谁小就往中间移动）
+  3. leetcode 167 - two sum II- 在有序数组里找2个元素之和等于某个数 https://github.com/yanyan314/leetcode/issues/48  (解题思路：设置两个指针，一头一尾，计算两个指针所指的数之和，如果等于target，那么返回，如果小于target,因为数组有序，把左指针++。 如果大于target,把右指针--）
+  4. leetcode 11 -Container With Most Water https://leetcode.com/problems/container-with-most-water/submissions/(解题思路：本题是计算最大面积，设计两个指针，一头一尾，设置初始面积为0， 如果下一组面积大，就替换最大面积值，如果小于当前面积，看当前头尾指针所指的数，谁小就往中间移动）
   
   
   
