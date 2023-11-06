@@ -87,6 +87,8 @@ answers:
   链表的问题主要是理清指针之间的关系，对于头节点需要特殊处理，通常是new一个新的dummy节点使其指针指向头节点
   
   Examples:
-  1. leetcode 21. Merge Two Sorted Lists  
+  1. leetcode 206: reverse linked list (思路设计三个变量 pre, current, next,循环反转，current.next=next.next, pre.next=next)
+  2. leetcode 92:
+  3. leetcode 21. Merge Two Sorted Lists  
 
   
