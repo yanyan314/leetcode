@@ -89,6 +89,8 @@ answers:
   Examples:
   1. leetcode 206: reverse linked list (思路设计三个变量 pre, current, next,循环反转，current.next=next.next, pre.next=next)
   2. leetcode 92:
-  3. leetcode 21. Merge Two Sorted Lists  
+  3. leetcode 21. Merge Two Sorted Lists
+  4. leetcode 24.swap-nodes-in-pairs
+  5. leetcode 25 reverse-nodes-in-k-group
 
   
