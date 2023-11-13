@@ -98,5 +98,7 @@ answers:
   1. leetcode 144 (用栈保存需要遍历的node,前序遍历树）
   2. leetcode 145
   3. leetcode 94 （ 按照顺序把需要访问的节点的命令推入栈中stack.push(new command(0,cmd.node.right)); stack.push(new command(1,cmd.node)); stack.push(new command(0,cmd.node.left)) ）
+  4. leetcode 20. Valid Parentheses
+
 
   
