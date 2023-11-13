@@ -93,4 +93,10 @@ answers:
   4. leetcode 24.swap-nodes-in-pairs
   5. leetcode 25 reverse-nodes-in-k-group
 
+# 栈和递归
+  Examples:
+  1. leetcode 144
+  2. leetcode 145
+  3. leetcode 94
+
   
