@@ -95,7 +95,7 @@ answers:
 
 # 栈和递归
   Examples:
-  1. leetcode 144
+  1. leetcode 144 (用栈保存需要遍历的node,前序遍历树）
   2. leetcode 145
   3. leetcode 94
 
