@@ -100,5 +100,9 @@ answers:
   3. leetcode 94 （ 按照顺序把需要访问的节点的命令推入栈中stack.push(new command(0,cmd.node.right)); stack.push(new command(1,cmd.node)); stack.push(new command(0,cmd.node.left)) ）
   4. leetcode 20. Valid Parentheses
 
+#队列
+ Examples:
+  1. leetcode 102: binary-tree-level-order-traversal (使用队列实现二叉树的层序遍历，用一个数据结构存储节点及其层级）
+
 
   
