@@ -113,6 +113,7 @@ answers:
   1. leetcode 104: 求二叉树的最大深度
   2. leetcode 111: minimum-depth-of-binary-tree 求二叉树的最小深度，这里注意当一个节点只有左孩子或者只有右孩子的情况
   3. leetcode 226: invert-binary-tree
+  4. leetcode 100: same-tree
 
 
   
