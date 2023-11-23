@@ -44,6 +44,8 @@ answers:
   2. leetcode 3. Longest Substring Without Repeating Characters https://github.com/yanyan314/leetcode/issues/50  (解题思路：建立一个滑动窗口，初始长度为0，并设立一个元素是否存在的标志，开始往右扩展，如果该元素不存在，r++,如果元素已经存在，l++,缩小数组，直到里面没有重复元素）
   3. leetcode 438
   4. leetcode 76
+
+  三步反转的方法： leetcode 189:rotate-array
   
   
   
@@ -104,6 +106,13 @@ answers:
  Examples:
   1. leetcode 102: binary-tree-level-order-traversal (使用队列实现二叉树的层序遍历，用一个数据结构存储节点及其层级）
   2. leetcode 103: binary-tree-zigzag-level-order-traversal(使用102层序遍历之后，针对结构的奇数个的数据进行反转）
+
+# 二叉树和递归
+  二叉树本身就是天然的递归定义。递归重要的两点，一个是递归的终止条件，另一个是递归的逻辑
+  Examples:
+  1. leetcode 104: 求二叉树的最大深度
+  2. leetcode 111: minimum-depth-of-binary-tree 求二叉树的最小深度，这里注意当一个节点只有左孩子或者只有右孩子的情况
+  3. leetcode 226: invert-binary-tree
 
 
   
