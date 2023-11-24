@@ -114,6 +114,8 @@ answers:
   2. leetcode 111: minimum-depth-of-binary-tree 求二叉树的最小深度，这里注意当一个节点只有左孩子或者只有右孩子的情况
   3. leetcode 226: invert-binary-tree
   4. leetcode 100: same-tree
+  5. leetcode 112: path-sum(注意这里要求的是从根到叶子的和，所以递归的终止条件应该是左右孩子都是空，这个跟leetcode 111题类似）
+  6. leetcode 404: sum-of-left-leaves
 
 
   
