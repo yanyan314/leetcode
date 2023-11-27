@@ -116,6 +116,8 @@ answers:
   4. leetcode 100: same-tree
   5. leetcode 112: path-sum(注意这里要求的是从根到叶子的和，所以递归的终止条件应该是左右孩子都是空，这个跟leetcode 111题类似）
   6. leetcode 404: sum-of-left-leaves
+  7. leetcode 257: binary-tree-paths (递归的逻辑更复杂）
+  8. leetcode 113: path-sum-ii
 
 
   
