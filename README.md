@@ -118,6 +118,8 @@ answers:
   6. leetcode 404: sum-of-left-leaves
   7. leetcode 257: binary-tree-paths (递归的逻辑更复杂）
   8. leetcode 113: path-sum-ii
+  9. leetcode 437: path-sum-iii(返回任意路径的sum,起点可以不是root,终点也可以不是叶子节点， 思路是先求包含当前节点的路径数，再求不包含当前节点的路径数）
+  10. leetcode 235: lowest-common-ancestor-of-a-binary-search-tree(二分搜索树是特别重要的数据结构，查找最小共同祖先，如果都小于root,就肯定在左边查找，都大于root,肯定在右边查找，否则当前root就是最小共同祖先）
 
 
   
