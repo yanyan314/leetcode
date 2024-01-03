@@ -110,6 +110,8 @@ answers:
  Examples:
   1. leetcode 102: binary-tree-level-order-traversal (使用队列实现二叉树的层序遍历，用一个数据结构存储节点及其层级）
   2. leetcode 103: binary-tree-zigzag-level-order-traversal(使用102层序遍历之后，针对结构的奇数个的数据进行反转）
+  3. leetcode 107
+  4. leetcode 199
 
 # 二叉树和递归
   二叉树本身就是天然的递归定义。递归重要的两点，一个是递归的终止条件，另一个是递归的逻辑
