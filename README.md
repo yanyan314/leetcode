@@ -107,8 +107,8 @@ answers:
   6. leetcode 71
 
 # 队列
-树的广度优先遍历和FBS https://zhuanlan.zhihu.com/p/136183284
- Examples:
+树的广度优先遍历和BFS https://zhuanlan.zhihu.com/p/136183284
+Examples:
   1. leetcode 102: binary-tree-level-order-traversal (使用队列实现二叉树的层序遍历，用一个数据结构存储节点及其层级）
   2. leetcode 103: binary-tree-zigzag-level-order-traversal(使用102层序遍历之后，针对结构的奇数个的数据进行反转）
   3. leetcode 107
