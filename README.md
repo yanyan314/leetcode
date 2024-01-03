@@ -114,6 +114,8 @@ Examples:
   3. leetcode 107
   4. leetcode 199
   5. leetcode 279
+  6. leetcode 127
+  7. leetcode 126
 
 # 二叉树和递归
   二叉树本身就是天然的递归定义。递归重要的两点，一个是递归的终止条件，另一个是递归的逻辑
