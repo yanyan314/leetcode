@@ -140,7 +140,7 @@ Examples:
   15. leetcode 230: kth-smallest-element-in-a-bst: 求二分搜索树中的第K大个元素，采取二分搜索树的中序遍历出的结果就是有序数列，中序遍历的时候用一个全局变量计数，到第K的时候返回
   16. leetcode 450
   17. leetcode 108 convert-sorted-array-to-binary-search-tree： 找到中位数作为根节点，中位数的左边递归创建左节点，右边递归创建右节点
-  18. leetcode 98
+  18. leetcode 98 valid BST
   19. leetcode 236
   20. leetcode 701:往二分搜索树中插入节点
 
