@@ -136,6 +136,12 @@ Examples:
   11. leetcode 235: lowest-common-ancestor-of-a-binary-search-tree(二分搜索树是特别重要的数据结构，查找最小共同祖先，如果都小于root,就肯定在左边查找，都大于root,肯定在右边查找，否则当前root就是最小共同祖先）
   12. leetcode 106: 先从后续遍历数组里拿最后一个元素作为根节点，然后算出根节点在前序遍历数组中的位置，那么前序遍历中根节点之前是左节点，根节点之后是右节点，从而计算出post里面左右节点的位置，然后递归
   13. leetcode 105: 方法跟106一样
+      二分搜索树是一个很重要的数据结构，它的基本操作得熟悉
+  15. leetcode 230
+  16. leetcode 450
+  17. leetcode 108
+  18. leetcode 98
+  19. leetcode 236
 
 
   
