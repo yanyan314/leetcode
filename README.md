@@ -139,7 +139,7 @@ Examples:
       二分搜索树是一个很重要的数据结构，它的基本操作得熟悉
   15. leetcode 230
   16. leetcode 450
-  17. leetcode 108
+  17. leetcode 108 convert-sorted-array-to-binary-search-tree： 找到中位数作为根节点，中位数的左边递归创建左节点，右边递归创建右节点
   18. leetcode 98
   19. leetcode 236
   20. leetcode 701:往二分搜索树中插入节点
