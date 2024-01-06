@@ -137,7 +137,7 @@ Examples:
   12. leetcode 106: 先从后续遍历数组里拿最后一个元素作为根节点，然后算出根节点在前序遍历数组中的位置，那么前序遍历中根节点之前是左节点，根节点之后是右节点，从而计算出post里面左右节点的位置，然后递归
   13. leetcode 105: 方法跟106一样
       二分搜索树是一个很重要的数据结构，它的基本操作得熟悉
-  15. leetcode 230
+  15. leetcode 230: kth-smallest-element-in-a-bst: 求二分搜索树中的第K大个元素，采取二分搜索树的中序遍历出的结果就是有序数列，中序遍历的时候用一个全局变量计数，到第K的时候返回
   16. leetcode 450
   17. leetcode 108 convert-sorted-array-to-binary-search-tree： 找到中位数作为根节点，中位数的左边递归创建左节点，右边递归创建右节点
   18. leetcode 98
