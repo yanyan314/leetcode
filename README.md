@@ -141,7 +141,7 @@ Examples:
   16. leetcode 450
   17. leetcode 108 convert-sorted-array-to-binary-search-tree： 找到中位数作为根节点，中位数的左边递归创建左节点，右边递归创建右节点
   18. leetcode 98 valid BST
-  19. leetcode 236
+  19. leetcode 236 lowest-common-ancestor-of-a-binary-tree (这题跟235不同，这是颗普通树，那么就得分别去左右树去找，都没找到返回root,只找到一边就返回那边）
   20. leetcode 701:往二分搜索树中插入节点
 
 
