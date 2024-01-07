@@ -21,6 +21,9 @@ answers:
   1. leetcode 75. Sort Colors ： https://leetcode.com/problems/sort-colors/   
       3index, nums[0-zero] =0, nums[zero+1, two-1]=1, nums[two-n]=2, 
      用3个index, nums[0-zero] =0, nums[zero+1, two-1]=1, nums[two-n]=2, 初始index two = n, index 0 = -1, 然后遍历数组，如果nums[i]等于2，交换nums[two-1]和nums[i],如果nums[i]=0, 交换nums[zero+1]和nums[i],i++, 如果nums[i]=0,直接i++
+ 2. leetcode 26:remove-duplicates-from-sorted-array
+ 3. leetcode 27
+ 4. leetcode 80
      
   善用指针, 
   Examples:
