@@ -25,6 +25,7 @@ answers:
  3. leetcode 27
  4. leetcode 80
  5. leetcode 4 median-of-two-sorted-arrays
+ 6. leetcode 912: sort-an-array
      
   善用指针, 
   Examples:
