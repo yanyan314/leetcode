@@ -131,6 +131,7 @@ Examples:
   13. leetcode 1162:as-far-from-land-as-possible
   14. leetcode 515:find-largest-value-in-each-tree-row: BFS层序遍历树，找到每层的最大值
   15. leetcode 637:average-of-levels-in-binary-tree: BFS层序遍历树，计算每层个数和总和
+  16. leetcode 542: 01-matrix: 求每个元素距离0的最短距离，建立一个二维数组，遍历这个表格，如果是0，直接把0赋值给这个数组，并且加到queue里面，然后遍历上下左右四个元素，求其对应的距离，并且把这4个元素依次放入队列
 
 # 二叉树和递归
   二叉树本身就是天然的递归定义。递归重要的两点，一个是递归的终止条件，另一个是递归的逻辑
