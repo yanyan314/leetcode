@@ -130,6 +130,7 @@ Examples:
   12. leetcode 827:making-a-large-island: 填海造田，先算出所有岛屿的面积，并且把他们标记上颜色。然后遍历所有的是0的格子，看它的4个邻居有没有包含不同的岛屿，然后计算他们合并之后的面积，求出最大面积
   13. leetcode 1162:as-far-from-land-as-possible
   14. leetcode 515:find-largest-value-in-each-tree-row: BFS层序遍历树，找到每层的最大值
+  15. leetcode 637:average-of-levels-in-binary-tree: BFS层序遍历树，计算每层个数和总和
 
 # 二叉树和递归
   二叉树本身就是天然的递归定义。递归重要的两点，一个是递归的终止条件，另一个是递归的逻辑
