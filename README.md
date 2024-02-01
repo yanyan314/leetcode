@@ -41,6 +41,7 @@ answers:
   3. leetcode 167 - two sum II- 在有序数组里找2个元素之和等于某个数 https://github.com/yanyan314/leetcode/issues/48  (解题思路：设置两个指针，一头一尾，计算两个指针所指的数之和，如果等于target，那么返回，如果小于target,因为数组有序，把左指针++。 如果大于target,把右指针--）
   4. leetcode 11 -Container With Most Water https://leetcode.com/problems/container-with-most-water/submissions/(解题思路：本题是计算最大面积，设计两个指针，一头一尾，设置初始面积为0， 如果下一组面积大，就替换最大面积值，如果小于当前面积，看当前头尾指针所指的数，谁小就往中间移动）
   5. leetcode 240 - search-a-2d-matrix-ii: 利用矩阵从左到右是升序的，从上到下升序的特点，初始选定第一行最后一个元素为标志，当目标等于target的时候返回true, 当小于的时候，意味着整行都小于，把行数+1， 如果大于的时候，意味这个列都没有目标，把列数-1
+  6. leetcode 151 - reverse-words-in-a-string: 先把string按照空格分成词语，然后把这些词语从后往前组合
   
   
   
