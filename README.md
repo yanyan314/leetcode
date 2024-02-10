@@ -104,6 +104,7 @@ answers:
   3. leetcode 21. Merge Two Sorted Lists
   4. leetcode 24.swap-nodes-in-pairs
   5. leetcode 25 reverse-nodes-in-k-group
+  6. leetcode 82 remove-duplicates-from-sorted-list-ii: 用两个指针，一个是preNode,一个是currentNode, 当currentNode的值跟后面一个节点值相等，一直循环下去，直达找到不想到的Node
 
 # 栈和递归
   Examples:
