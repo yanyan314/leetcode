@@ -26,6 +26,7 @@ answers:
  4. leetcode 80
  5. leetcode 4 median-of-two-sorted-arrays
  6. leetcode 912: sort-an-array
+ 7. leetcode 8: string-to-integer-atoi
      
   善用指针, 
   Examples:
