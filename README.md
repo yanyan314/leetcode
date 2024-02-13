@@ -109,7 +109,7 @@ answers:
   6. leetcode 82 remove-duplicates-from-sorted-list-ii: 用两个指针，一个是preNode,一个是currentNode, 当currentNode的值跟后面一个节点值相等，一直循环下去，直达找到不想到的Node
   7. leetcode 83 remove-duplicates-from-sorted-list
   8. leetcode 141:linked-list-cycle - 利用快慢指针，快指针一次走2步，慢指针一次走1步，如果两个指针相遇那么一定是循环列表
-  9. leetcode 142:linked-list-cycle-ii-求循环列表开始循环的Node
+  9. leetcode 142:linked-list-cycle-ii-求循环列表开始循环的Node- 慢指针从头节点到开始环的开始节点的距离等于快指针从相遇节点到环开始节点的距离
 
 # 栈和递归
   Examples:
