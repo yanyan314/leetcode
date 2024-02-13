@@ -27,6 +27,7 @@ answers:
  5. leetcode 4 median-of-two-sorted-arrays
  6. leetcode 912: sort-an-array
  7. leetcode 8: string-to-integer-atoi
+ 8. leetcode 56: merge-intervals - 先把数组按照起始下标排序，然后遍历，如果new end小于end,说明有重叠，那么就取start的最小值，end的最大值
      
   善用指针, 
   Examples:
