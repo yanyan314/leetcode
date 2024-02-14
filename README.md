@@ -172,6 +172,8 @@ Examples:
 2. leetcode 64: 维护一个二维的 dp 数组，其中 dp[i][j] 表示到达当前位置的最小路径和。接下来找状态转移方程，因为到达当前位置 (i, j) 只有两种情况，要么从上方 (i-1, j) 过来，要么从左边 (i, j-1) 过来，我们选择 dp 值较小的那个路径，即比较 dp[i-1][j] 和 dp[i][j-1]，将其中的较小值加上当前的数字 grid[i][j]，就是当前位置的 dp 值了
 3. leetcode 63
 4. leetcode 120
+5. leetcode 1143: longest-common-subsequence: 求最长子序列
+6. 求两个字符串中的最长子串
 
 
   
