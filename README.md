@@ -173,7 +173,7 @@ Examples:
 3. leetcode 63
 4. leetcode 120
 5. leetcode 1143: longest-common-subsequence: 求最长子序列
-6. 求两个字符串中的最长子串
+6. 求两个字符串中的最长子串： https://blog.csdn.net/u013309870/article/details/69479488
 
 
   
