@@ -164,6 +164,7 @@ Examples:
   18. leetcode 98 valid BST
   19. leetcode 236 lowest-common-ancestor-of-a-binary-tree (这题跟235不同，这是颗普通树，那么就得分别去左右树去找，都没找到返回root,只找到一边就返回那边）
   21. leetcode 701:往二分搜索树中插入节点
+  22. leetcode 297: serialize-and-deserialize-binary-tree - BFS或者前序或者后序serialize
 
 # 动态规划
 1. leetcode 70: climbing-stairs： 解题思路爬第n个楼梯的方法是爬第n-1和第n-2的方法和，因为一次或者爬一格，或者爬2格
