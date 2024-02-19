@@ -57,6 +57,7 @@ answers:
   2. leetcode 3. Longest Substring Without Repeating Characters https://github.com/yanyan314/leetcode/issues/50  (解题思路：建立一个滑动窗口，初始长度为0，并设立一个元素是否存在的标志，开始往右扩展，如果该元素不存在，r++,如果元素已经存在，l++,缩小数组，直到里面没有重复元素）
   3. leetcode 438
   4. leetcode 76
+  5. leetcode 48 -rotate-image: 先对角线翻转 matrix[i][j]和matix[j][i]交换，然后中轴线翻转 matrix[i][j]和matrix[i][n-j-1]交换
 
   三步反转的方法： leetcode 189:rotate-array
   
