@@ -177,7 +177,8 @@ Examples:
 5. leetcode 1143: longest-common-subsequence: 求最长子序列
 6. 求两个字符串中的最长子串： https://blog.csdn.net/u013309870/article/details/69479488
 7. leetcode 53: maximum-subarray-找到状态转移方程，f[i]表示从0到i的subarray,如果f[i-1]<=0, f[i]=nums[i],否则f[i]=f[i-1]+nums[i]
-8. leetcode 303:range-sum-query-immutable 
+8. leetcode 303:range-sum-query-immutable
+9. leetcode 560:subarray-sum-equals-k
 
 
   
