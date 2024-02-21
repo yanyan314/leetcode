@@ -181,6 +181,7 @@ Examples:
 9. leetcode 560:subarray-sum-equals-k
 # 图
 1.leetcode 997: find-the-town-judge - 选定trust认为是一个从当前数字到n的线段，对于judge来说只有别的到它的线段，没有它对别人的线段 
+2.leetcode 1971:find-if-path-exists-in-graph - DFS遍历图，用ArrayList<ArrayList<Integer>>存储图里面的指向关系，把source作为起点，看它的邻居里有没有destination
 
 
   
