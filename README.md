@@ -179,6 +179,8 @@ Examples:
 7. leetcode 53: maximum-subarray-找到状态转移方程，f[i]表示从0到i的subarray,如果f[i-1]<=0, f[i]=nums[i],否则f[i]=f[i-1]+nums[i]
 8. leetcode 303:range-sum-query-immutable
 9. leetcode 560:subarray-sum-equals-k
+# 图
+1.leetcode 997: find-the-town-judge - 选定trust认为是一个从当前数字到n的线段，对于judge来说只有别的到它的线段，没有它对别人的线段 
 
 
   
