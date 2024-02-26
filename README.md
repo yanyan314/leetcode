@@ -179,6 +179,7 @@ Examples:
 7. leetcode 53: maximum-subarray-找到状态转移方程，f[i]表示从0到i的subarray,如果f[i-1]<=0, f[i]=nums[i],否则f[i]=f[i-1]+nums[i]
 8. leetcode 303:range-sum-query-immutable
 9. leetcode 560:subarray-sum-equals-k
+10. leetcode 152:maximum-product-subarray -求最大乘积子数组，考虑正负数的问题，建立2个数组，第一个是最大乘积，一个是最小乘积， max[i]=max[i-1]*nums[i]
 # 图
 1.leetcode 997: find-the-town-judge - 选定trust认为是一个从当前数字到n的线段，对于judge来说只有别的到它的线段，没有它对别人的线段 
 2.leetcode 1971:find-if-path-exists-in-graph - DFS遍历图，用ArrayList<ArrayList<Integer>>存储图里面的指向关系，把source作为起点，看它的邻居里有没有destination
