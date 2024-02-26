@@ -188,6 +188,7 @@ Examples:
 当遇到的问题中数组是有序的时候，一定要利用这个特性，进行二分查找
 
 1.leetcode 1539: kth-missing-positive-number-寻找正序数组中缺失的第K个数字，二分法找到缺失数在的范围
+
 2.leetcode 153:find-minimum-in-rotated-sorted-array-寻找旋转数组中的最小值，根据数组的特性，最小值的右边一定都是大于它的，左边也是大于它的，且左，右两边边是升序的，左边最后一个数一定是比分界点数的前一个小，二分法，arr[mid]<arr[right]的时候right=mid;否则left=mid+1;这样就找到了分界点，分界点就是最小值
 
 
