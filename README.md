@@ -177,10 +177,11 @@ Examples:
 5. leetcode 1143: longest-common-subsequence: 求最长子序列
 6. 求两个字符串中的最长子串： https://blog.csdn.net/u013309870/article/details/69479488
 7. leetcode 5: longest-palindromic-substring -求字符串里面的最长回文子串--回文字符串是对称的，当i，j相等的时候，如果他们中间的字符串是回文，那么从i到j肯定也是回文，状态方程是dp[i][j]=dp[i+1][j-1],另外如果i,j直接没有元素的时候，dp[i][j]也是回文
-8. leetcode 53: maximum-subarray-找到状态转移方程，f[i]表示从0到i的subarray,如果f[i-1]<=0, f[i]=nums[i],否则f[i]=f[i-1]+nums[i]
-9. leetcode 303:range-sum-query-immutable
-10. leetcode 560:subarray-sum-equals-k
-11. leetcode 152:maximum-product-subarray -求最大乘积子数组，考虑正负数的问题，建立2个数组，第一个是最大乘积，一个是最小乘积， max[i]=max[i-1]*nums[i]
+8. leetcode 300: longest-increasing-subsequence - 求数组里最长递增元素的个数--初始每个元素最长值是自己也就是1，当前元素的dp值，如果当前元素大于前一个元素，那么dp=1+dp[i-1]
+9. leetcode 53: maximum-subarray-找到状态转移方程，f[i]表示从0到i的subarray,如果f[i-1]<=0, f[i]=nums[i],否则f[i]=f[i-1]+nums[i]
+10. leetcode 303:range-sum-query-immutable
+11. leetcode 560:subarray-sum-equals-k
+12. leetcode 152:maximum-product-subarray -求最大乘积子数组，考虑正负数的问题，建立2个数组，第一个是最大乘积，一个是最小乘积， max[i]=max[i-1]*nums[i]
 # 图
 1.leetcode 997: find-the-town-judge - 选定trust认为是一个从当前数字到n的线段，对于judge来说只有别的到它的线段，没有它对别人的线段 
 2.leetcode 1971:find-if-path-exists-in-graph - DFS遍历图，用ArrayList<ArrayList<Integer>>存储图里面的指向关系，把source作为起点，看它的邻居里有没有destination
