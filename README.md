@@ -185,6 +185,7 @@ Examples:
 # 图
 1.leetcode 997: find-the-town-judge - 选定trust认为是一个从当前数字到n的线段，对于judge来说只有别的到它的线段，没有它对别人的线段 
 2.leetcode 1971:find-if-path-exists-in-graph - DFS遍历图，用ArrayList<ArrayList<Integer>>存储图里面的指向关系，把source作为起点，看它的邻居里有没有destination
+3.leetcode 1791:find-center-of-star-graph -寻找中心点，只有中心点才在每个edges中出现
 
 # 二分法
 当遇到的问题中数组是有序的时候，一定要利用这个特性，进行二分查找
