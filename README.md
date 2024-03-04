@@ -169,6 +169,7 @@ Examples:
   21. leetcode 701:往二分搜索树中插入节点
   22. leetcode 297: serialize-and-deserialize-binary-tree - BFS或者前序或者后序serialize
   23. leetcode 449: serialize-and-deserialize-bst : 方法同297题
+  24. leetcode 17:letter-combinations-of-a-phone-number 递归方法解决
 
 # 动态规划
 1. leetcode 70: climbing-stairs： 解题思路爬第n个楼梯的方法是爬第n-1和第n-2的方法和，因为一次或者爬一格，或者爬2格
