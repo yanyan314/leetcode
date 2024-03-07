@@ -29,6 +29,7 @@ answers:
  7. leetcode 8: string-to-integer-atoi
  8. leetcode 56: merge-intervals - 先把数组按照起始下标排序，然后遍历，如果new end小于end,说明有重叠，那么就取start的最小值，end的最大值
  9. leetcode 500:keyboard-row 返回字母在同一行的字符串
+ 10. leetcode 1200:minimum-absolute-difference- 一次遍历，先排序，当出现最小差的一对时，清空result,如果等于，就把那对值加入result
      
   善用指针, 
   Examples:
