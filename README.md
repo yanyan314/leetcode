@@ -122,6 +122,7 @@ answers:
   4. leetcode 20. Valid Parentheses
   5. leetcode 150
   6. leetcode 71
+  7. leetcode 155: min-stack - 建立一个stack,stack元素是pair,存储当前值和stack里面的最小值，push的时候，比较最小值和当前值，如果当前值小,那么在栈顶元素中替换最小值
 
 # 队列
 树的广度优先遍历和BFS https://zhuanlan.zhihu.com/p/136183284
