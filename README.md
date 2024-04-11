@@ -113,6 +113,7 @@ answers:
   7. leetcode 83 remove-duplicates-from-sorted-list
   8. leetcode 141:linked-list-cycle - 利用快慢指针，快指针一次走2步，慢指针一次走1步，如果两个指针相遇那么一定是循环列表
   9. leetcode 142:linked-list-cycle-ii-求循环列表开始循环的Node- 慢指针从头节点到开始环的开始节点的距离等于快指针从相遇节点到环开始节点的距离
+  10. leetcode 2: add Two Numbers: 从两个链表的头结点开始相加，用一个变量记录是否有进位
 
 # 栈和递归
   Examples:
